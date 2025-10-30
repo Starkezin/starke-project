@@ -9,3 +9,5 @@ function Tempo() {
         </div>
     )   
 }
+
+export default Tempo;
